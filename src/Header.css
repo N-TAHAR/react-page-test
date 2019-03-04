@@ -1,0 +1,15 @@
+header{
+  width: 100vw;
+  background-color: #141414;
+  color: #fafafa;
+  padding: 20px
+}
+
+ul{
+  display: flex;
+  justify-content: center;
+}
+
+li:not(:last-child){
+  margin-right: 50px;
+}
