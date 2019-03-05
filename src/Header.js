@@ -5,7 +5,7 @@ import './Header.css'
 const Header = () => (
   <header>
     <ul>
-      <li>Menu</li>
+      <li>Home</li>
       <li>About</li>
       <li>Contact</li>
     </ul>
